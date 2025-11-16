@@ -1,6 +1,6 @@
 <div align="center">
   
-![Logo](fede42a43c59484a0c856c6fee8927dd.jpg)
+![Logo](ProjectLogo.jpg)
 
 </div>
 <h1>📌项目简介📌</h1>
@@ -12,9 +12,10 @@
 
 <h1>⚙️贡献指南⚙️</h1>
 我们鼓励社区参与改进这些项目！请遵循以下流程
-：
+
 
 Fork 本仓库声明开源
+
 
 通过 Pull Request 提交变更，并描述项目信息
 

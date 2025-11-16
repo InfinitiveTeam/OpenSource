@@ -1,0 +1,25 @@
+﻿<Window x:Class="XtremeBrowser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:wv2="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf"
+        Title="极致浏览器" Height="600" Width="800">
+    <Grid>
+        <!-- 明确定义三行：第0行（可选预留）、第1行放地址栏、第2行放浏览器 -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- 可选标题栏或其他控件 -->
+            <RowDefinition Height="Auto"/>
+            <!-- 自动高度适应TextBox -->
+            <RowDefinition Height="*"/>
+            <!-- 剩余空间分配给WebView2 -->
+        </Grid.RowDefinitions>
+
+        <!-- 将StackPanel放在第1行，并调整布局 -->
+        <StackPanel Orientation="Horizontal" Grid.Row="1">
+            <TextBox Name="urlTextBox" Height="15" Width="1000" KeyDown="UrlTextBox_KeyDown"/>
+        </StackPanel>
+
+        <!-- WebView2占满第2行 -->
+        <wv2:WebView2 Name="webView" Grid.Row="2"/>
+    </Grid>
+</Window>
