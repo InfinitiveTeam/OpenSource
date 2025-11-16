@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XtremeServerInstaller", "XtremeServerInstaller.csproj", "{CE8B10FC-E462-413D-9C23-3F6439BC6D3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE8B10FC-E462-413D-9C23-3F6439BC6D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8B10FC-E462-413D-9C23-3F6439BC6D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8B10FC-E462-413D-9C23-3F6439BC6D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8B10FC-E462-413D-9C23-3F6439BC6D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F955B31-8F45-4310-9EB0-CEA7133EA985}
+	EndGlobalSection
+EndGlobal

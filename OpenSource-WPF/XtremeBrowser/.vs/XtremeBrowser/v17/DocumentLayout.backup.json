@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{98D6BB34-B54E-4263-A575-760D281103B5}|XtremeBrowser\\XtremeBrowser.csproj|c:\\users\\asus\\source\\repos\\opensource\\opensource-wpf\\xtremebrowser\\xtremebrowser\\xtremebrowser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98D6BB34-B54E-4263-A575-760D281103B5}|XtremeBrowser\\XtremeBrowser.csproj|solutionrelative:xtremebrowser\\xtremebrowser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{98D6BB34-B54E-4263-A575-760D281103B5}|XtremeBrowser\\XtremeBrowser.csproj|c:\\users\\asus\\source\\repos\\opensource\\opensource-wpf\\xtremebrowser\\xtremebrowser\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{98D6BB34-B54E-4263-A575-760D281103B5}|XtremeBrowser\\XtremeBrowser.csproj|solutionrelative:xtremebrowser\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "XtremeBrowser",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
+              "RelativeDocumentMoniker": "XtremeBrowser\\XtremeBrowser.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
+              "RelativeToolTip": "XtremeBrowser\\XtremeBrowser.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T03:31:48.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.g.i.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
               "RelativeDocumentMoniker": "XtremeBrowser\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "XtremeBrowser\\MainWindow.xaml.cs",
@@ -78,19 +95,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\App.xaml",
               "RelativeDocumentMoniker": "XtremeBrowser\\App.xaml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\App.xaml",
               "RelativeToolTip": "XtremeBrowser\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-22T09:35:55.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T09:35:55.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "XtremeBrowser\\AssemblyInfo.cs",
@@ -102,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\MainWindow.xaml",
               "RelativeDocumentMoniker": "XtremeBrowser\\MainWindow.xaml",
@@ -114,14 +130,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "XtremeBrowser",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Source\\Repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
               "RelativeDocumentMoniker": "XtremeBrowser\\XtremeBrowser.csproj",
-              "ToolTip": "C:\\Users\\ASUS\\Source\\Repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
               "RelativeToolTip": "XtremeBrowser\\XtremeBrowser.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-22T10:02:09.146Z"
+              "WhenOpened": "2025-08-22T10:02:09.146Z",
+              "EditorCaption": ""
             }
           ]
         }

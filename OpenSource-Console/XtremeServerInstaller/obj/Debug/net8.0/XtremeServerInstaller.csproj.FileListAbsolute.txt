@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\XtremeServerInstaller\obj\Debug\net8.0\XtremeServerInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\XtremeServerInstaller\obj\Debug\net8.0\XtremeServerInstaller.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\XtremeServerInstaller\obj\Debug\net8.0\XtremeServerInstaller.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\XtremeServerInstaller\obj\Debug\net8.0\XtremeServerInstaller.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\XtremeServerInstaller\bin\Debug\net8.0\XtremeServerInstaller.exe
+C:\Users\ASUS\source\repos\XtremeServerInstaller\bin\Debug\net8.0\XtremeServerInstaller.deps.json
+C:\Users\ASUS\source\repos\XtremeServerInstaller\bin\Debug\net8.0\XtremeServerInstaller.runtimeconfig.json
+C:\Users\ASUS\source\repos\XtremeServerInstaller\bin\Debug\net8.0\XtremeServerInstaller.dll
+C:\Users\ASUS\source\repos\XtremeServerInstaller\bin\Debug\net8.0\XtremeServerInstaller.pdb
+C:\Users\ASUS\source\repos\XtremeServerInstaller\obj\Debug\net8.0\XtremeServerInstaller.dll
+C:\Users\ASUS\source\repos\XtremeServerInstaller\obj\Debug\net8.0\refint\XtremeServerInstaller.dll
+C:\Users\ASUS\source\repos\XtremeServerInstaller\obj\Debug\net8.0\XtremeServerInstaller.pdb
+C:\Users\ASUS\source\repos\XtremeServerInstaller\obj\Debug\net8.0\XtremeServerInstaller.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\XtremeServerInstaller\obj\Debug\net8.0\ref\XtremeServerInstaller.dll

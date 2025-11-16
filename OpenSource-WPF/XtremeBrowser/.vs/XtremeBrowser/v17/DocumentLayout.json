@@ -59,12 +59,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "XtremeBrowser",
+              "Title": "XtremeBrowser.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
               "RelativeDocumentMoniker": "XtremeBrowser\\XtremeBrowser.csproj",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
               "RelativeToolTip": "XtremeBrowser\\XtremeBrowser.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-16T03:31:48.353Z",
               "EditorCaption": ""
@@ -125,8 +125,7 @@
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\MainWindow.xaml",
               "RelativeToolTip": "XtremeBrowser\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-22T09:33:39.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T09:33:39.705Z"
             },
             {
               "$type": "Document",
