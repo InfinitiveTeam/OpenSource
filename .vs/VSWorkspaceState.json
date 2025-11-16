@@ -2,9 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\OpenSource-Console",
-    "\\OpenSource-Console\\XtremeServerInstaller",
-    "\\OpenSource-WPF\\XtremeBrowser",
-    "\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser"
+    "\\OpenSource-Console\\XtremeServerInstaller"
   ],
   "SelectedNode": "\\OpenSource-Console\\XtremeServerInstaller\\Program.cs",
   "PreviewInSolutionExplorer": false

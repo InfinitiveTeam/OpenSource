@@ -13,6 +13,8 @@ namespace XtremeBrowser
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
+    /// ©2025 XtremeWave - Infinitive. All rights reserved.
+    /// 使用前请查看README.md了解更多信息。
     /// </summary>
     public partial class MainWindow : Window
     {
@@ -31,7 +33,7 @@ namespace XtremeBrowser
                 // 初始化 WebView2 核心环境
                 await webView.EnsureCoreWebView2Async(null);
 
-                // 加载 Bing 首页
+                // 加载 青柠 首页
                 webView.CoreWebView2.Navigate("https://www.limestart.cn/");
                 LastUrl = "http://www.limestart.cn/";
             }
@@ -63,7 +65,7 @@ namespace XtremeBrowser
                 {
                     if(LastUrl != "") MessageBox.Show("上一页没有任何网址", "错误", MessageBoxButton.OK, MessageBoxImage.Error);
                     webView.CoreWebView2.Navigate(LastUrl);
-                }
+                }//好像是有bug。可以做一个数组，每次导航就存入数组，然后回退就取数组最后一个元素
                 else
                 {
                     MessageBox.Show("请输入正确的网址", "错误", MessageBoxButton.OK, MessageBoxImage.Error);

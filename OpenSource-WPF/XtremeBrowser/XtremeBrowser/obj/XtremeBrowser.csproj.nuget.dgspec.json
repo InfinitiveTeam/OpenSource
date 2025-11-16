@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj": {}
+    "C:\\Users\\ASUS\\Source\\Repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj": {
+    "C:\\Users\\ASUS\\Source\\Repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
         "projectName": "XtremeBrowser",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\obj\\",
         "projectStyle": "PackageReference",

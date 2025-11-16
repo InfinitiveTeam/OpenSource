@@ -13,7 +13,7 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("XtremeBrowser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77172a0eb2d7fa286ad9e6ddd884c312264c0969")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d51f12319afef51fe20f25fe077a5b242308271d")]
 [assembly: System.Reflection.AssemblyProductAttribute("XtremeBrowser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XtremeBrowser")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]

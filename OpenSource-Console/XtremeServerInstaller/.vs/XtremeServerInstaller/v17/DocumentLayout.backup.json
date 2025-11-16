@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\XtremeServerInstaller\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-Console\\XtremeServerInstaller\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE8B10FC-E462-413D-9C23-3F6439BC6D3A}|XtremeServerInstaller.csproj|c:\\users\\asus\\source\\repos\\xtremeserverinstaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE8B10FC-E462-413D-9C23-3F6439BC6D3A}|XtremeServerInstaller.csproj|c:\\users\\asus\\source\\repos\\opensource\\opensource-console\\xtremeserverinstaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE8B10FC-E462-413D-9C23-3F6439BC6D3A}|XtremeServerInstaller.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\XtremeServerInstaller\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-Console\\XtremeServerInstaller\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\XtremeServerInstaller\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OpenSource\\OpenSource-Console\\XtremeServerInstaller\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAsAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T11:00:10.114Z",
               "EditorCaption": ""
