@@ -135,11 +135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WindowsFile\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
       "projectName": "XtremeBrowser",
-      "projectPath": "E:\\WindowsFile\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\WindowsFile\\XtremeBrowser\\XtremeBrowser\\XtremeBrowser\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\OpenSource\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

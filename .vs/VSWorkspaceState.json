@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OpenSource-WPF",
+    "\\OpenSource-WPF\\XtremeBrowser",
+    "\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser"
   ],
+  "SelectedNode": "\\OpenSource-WPF\\XtremeBrowser\\XtremeBrowser\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }
